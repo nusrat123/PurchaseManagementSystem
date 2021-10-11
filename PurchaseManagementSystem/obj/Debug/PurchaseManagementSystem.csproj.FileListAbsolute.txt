@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\bin\Debug\PurchaseManagementSystem.exe.config
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\bin\Debug\PurchaseManagementSystem.exe
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\bin\Debug\PurchaseManagementSystem.pdb
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.Properties.Resources.resources
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.exe
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.pdb
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.log_in.resources
+C:\Users\User\source\repos\PurchaseManagementSystem\PurchaseManagementSystem\obj\Debug\PurchaseManagementSystem.purchase.resources
